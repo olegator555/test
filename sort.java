@@ -1,7 +1,8 @@
 import java.util.Scanner;
 class sort
 {
-	public static void main(String[] args)
+
+	public static void main(String[] args)   // kkwdmwkmkwmk
 	{
 		Scanner scan = new Scanner(System.in);
 		int mas[] = new int[10];
