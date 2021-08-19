@@ -11,7 +11,7 @@ public class Bubble {
 
     void bubblesort(int mas[])
     {
-        this.mas=mas;
+        this.mas=mas; //5555
 
         for(int i=0; i<9;i++)
             for(int j=0;j<9;j++)
